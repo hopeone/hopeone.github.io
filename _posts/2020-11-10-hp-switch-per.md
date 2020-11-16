@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Hp스위치 웹 접속"
-categories: net
+author: Hopeone
+categories: [ net ]
 tags: hp,l2,web,hpe,switch
 author: hopeone
 description: 기본설정 
+image : assets/images/hp5500.jpg
 comments: true
 ---
 

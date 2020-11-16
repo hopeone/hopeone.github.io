@@ -3,10 +3,12 @@ layout: post
 title:  "Hp-switch-Password"
 categories: net
 tags: hp,password,
+image : assets/images/hp5500.jpg
 author: hopeone
 description: 기본설정 
 comments: true
 ---
+
 
 ###### . 로컬 사용자 계정 생성 및 서비스 타입 및 레벨 설정 (telnet)
 
